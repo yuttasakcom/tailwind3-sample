@@ -15,3 +15,13 @@ npx tailwindcss init
 - PostCSS Language Support
 - Live Server
 ```
+
+## Run Tailwind
+```
+npm run build
+```
+
+## Live Server
+```
+open live server -> index.html
+```
